@@ -1,0 +1,6 @@
+{
+  "name": "SkillPath AI",
+  "description": "AI-powered personalized career guidance, skill gap analysis, adaptive weekly roadmaps, and multi-agent learning mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
